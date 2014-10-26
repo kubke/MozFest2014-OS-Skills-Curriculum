@@ -1,18 +1,17 @@
 <!-- Tufts VUE 3.2.2 concept-map (MozFest14-OpenScience.vue) 2014-10-27 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/Applications/VUE.app/Contents/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon Oct 27 03:55:37 NZDT 2014 by kubke on platform Mac OS X 10.9.5 in JVM 1.6.0_65-b14-462-11M4609 -->
+<!-- Do Not Remove: Saved date Mon Oct 27 03:06:29 NZDT 2014 by kubke on platform Mac OS X 10.9.5 in JVM 1.6.0_65-b14-462-11M4609 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="MozFest14-OpenScience.vue" created="1414325401847" x="0.0"
     y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1414335337917" size="62791"
-        spec="/Users/kubke/GitHub/MozFest2014-OS-Skills-Curriculum/MozFest14-OpenScience.vue"
-        type="1" xsi:type="URLResource">
+    <resource referenceCreated="1414332389980" size="49039"
+        spec="/Users/kubke/Desktop/MozFest14-OpenScience.vue" type="1" xsi:type="URLResource">
         <title>MozFest14-OpenScience.vue</title>
-        <property key="File" value="/Users/kubke/GitHub/MozFest2014-OS-Skills-Curriculum/MozFest14-OpenScience.vue"/>
+        <property key="File" value="/Users/kubke/Desktop/MozFest14-OpenScience.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -37,7 +36,8 @@
         <textColor>#000000</textColor>
         <font>Arial-plain-18</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4c65c417ac10100500900e24e734cc78</URIString>
-        <child ID="72" label="Involve others Connect with others"
+        <child ID="72"
+            label="Involve others&#xa;      &#xa;      &#xa;        Connect with others"
             created="1414332268436" x="5.0" y="30.0" width="150.0"
             height="34.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -45,30 +45,33 @@
             <font>SansSerif-plain-14</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4cc79a5dac10100500900e2485c45168</URIString>
             <richText>&lt;html&gt;
-  &lt;head color="#404040" style="color: #404040"&gt;
+  &lt;head style="color: #404040" color="#404040"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #404040; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #404040; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #404040; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #404040; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Involve others
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Connect with others
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>Involve others Connect with others</label>
+            <label>Involve others
+      
+      
+        Connect with others</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
@@ -80,19 +83,19 @@
         <font>Arial-plain-32</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4c65c417ac10100500900e2463e9b9cc</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 12; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 12; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p color="#000000" style="text-align: center; color: #000000"&gt;
+    &lt;p style="text-align: center; color: #000000" color="#000000"&gt;
       &lt;font style="font-size:32;"&gt;Mapping skills for Open Reproducible Science&lt;/font&gt;
     &lt;/p&gt;
   &lt;/body&gt;
@@ -127,7 +130,7 @@
             <font>Arial-plain-12</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4caa3d5bac10100500900e245d228bf2</URIString>
             <child ID="64"
-                label="Libraries packages methods plugins scripts"
+                label="Libraries&#xa;      &#xa;      &#xa;        packages&#xa;      &#xa;      &#xa;        methods&#xa;      &#xa;      &#xa;        plugins&#xa;      &#xa;      &#xa;        scripts"
                 created="1414330905999" x="5.0" y="36.0" width="150.0"
                 height="73.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
                 <strokeColor>#404040</strokeColor>
@@ -135,39 +138,51 @@
                 <font>SansSerif-plain-14</font>
                 <URIString>http://vue.tufts.edu/rdf/resource/4cc79a5eac10100500900e2406a77e60</URIString>
                 <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Libraries
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         packages
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         methods
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         plugins
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         scripts
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-                <label>Libraries packages methods plugins scripts</label>
+                <label>Libraries
+      
+      
+        packages
+      
+      
+        methods
+      
+      
+        plugins
+      
+      
+        scripts</label>
             </child>
             <shape xsi:type="rectangle"/>
         </child>
@@ -212,7 +227,7 @@
             <font>Arial-plain-12</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4caa3d5dac10100500900e24e701de65</URIString>
             <child ID="62"
-                label="descriptive analogy Figure Chart Peer review data visualisation written description"
+                label="descriptive analogy&#xa;      &#xa;      &#xa;        Figure&#xa;      &#xa;      &#xa;        Chart&#xa;      &#xa;      &#xa;        Peer review&#xa;      &#xa;      &#xa;        data visualisation&#xa;      &#xa;      &#xa;        written description"
                 created="1414330632049" x="5.0" y="22.0" width="150.0"
                 height="92.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
                 <strokeColor>#404040</strokeColor>
@@ -220,42 +235,57 @@
                 <font>SansSerif-plain-14</font>
                 <URIString>http://vue.tufts.edu/rdf/resource/4cae09baac10100500900e24020ee39e</URIString>
                 <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 12; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 12; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         descriptive analogy
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Figure
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Chart
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Peer review
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         data visualisation
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         written description
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-                <label>descriptive analogy Figure Chart Peer review data visualisation written description</label>
+                <label>descriptive analogy
+      
+      
+        Figure
+      
+      
+        Chart
+      
+      
+        Peer review
+      
+      
+        data visualisation
+      
+      
+        written description</label>
             </child>
             <shape xsi:type="rectangle"/>
         </child>
@@ -300,7 +330,7 @@
             <font>Arial-plain-12</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4caa3d5eac10100500900e249c766499</URIString>
             <child ID="63"
-                label="citations raw files metadata badges tables"
+                label="citations&#xa;      &#xa;      &#xa;        raw files&#xa;      &#xa;      &#xa;        metadata&#xa;      &#xa;      &#xa;        badges&#xa;      &#xa;      &#xa;        tables"
                 created="1414330849861" x="5.0" y="22.0" width="150.0"
                 height="73.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
                 <strokeColor>#404040</strokeColor>
@@ -308,39 +338,51 @@
                 <font>SansSerif-plain-14</font>
                 <URIString>http://vue.tufts.edu/rdf/resource/4cc79a62ac10100500900e2406552237</URIString>
                 <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         citations
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         raw files
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         metadata
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         badges
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         tables
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-                <label>citations raw files metadata badges tables</label>
+                <label>citations
+      
+      
+        raw files
+      
+      
+        metadata
+      
+      
+        badges
+      
+      
+        tables</label>
             </child>
             <shape xsi:type="rectangle"/>
         </child>
@@ -576,7 +618,7 @@
         <ID2 xsi:type="node">32</ID2>
     </child>
     <child ID="34" label="GATE" layerID="1" created="1414327409547"
-        x="1003.4" y="321.40002" width="30.0" height="178.1"
+        x="1002.9" y="321.40002" width="31.0" height="178.1"
         strokeWidth="1.0" strokeStyle="2" autoSized="false"
         controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -589,7 +631,7 @@
         <ID2 xsi:type="node">32</ID2>
     </child>
     <child ID="35" label="GATE" layerID="1" created="1414327429153"
-        x="1003.4" y="525.5" width="30.0" height="201.5"
+        x="1002.9" y="525.5" width="31.0" height="201.5"
         strokeWidth="1.0" strokeStyle="2" autoSized="false"
         controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -615,7 +657,7 @@
         <ID2 xsi:type="text">41</ID2>
     </child>
     <child ID="41"
-        label="I publish my data to the web I deposit my data in my institutional respository"
+        label="I publish my data to the web&#xa;      &#xa;      &#xa;        I deposit my data in my institutional respository"
         layerID="1" created="1414330067311" x="235.5" y="1169.0"
         width="150.0" height="78.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
@@ -623,33 +665,36 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d69ac10100500900e24fe14a746</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 12; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 12; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I publish my data to the web
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I deposit my data in my institutional respository
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-        <label>I publish my data to the web I deposit my data in my institutional respository</label>
+        <label>I publish my data to the web
+      
+      
+        I deposit my data in my institutional respository</label>
     </child>
     <child ID="42"
-        label="I combine my data with other data I mine data I reuse data"
+        label="I combine my data with other data&#xa;      &#xa;      &#xa;        I mine data&#xa;      &#xa;      &#xa;        I reuse data"
         layerID="1" created="1414330131821" x="528.5" y="1169.0"
         width="150.0" height="64.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
@@ -657,33 +702,39 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d6aac10100500900e241ba6053f</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 12; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 12; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 12; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I combine my data with other data
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I mine data
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I reuse data
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-        <label>I combine my data with other data I mine data I reuse data</label>
+        <label>I combine my data with other data
+      
+      
+        I mine data
+      
+      
+        I reuse data</label>
     </child>
     <child ID="43" layerID="1" created="1414330163334" x="603.0"
         y="1095.3999" width="1.0" height="74.099976" strokeWidth="1.0"
@@ -706,13 +757,13 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d6eac10100500900e249e5d1784</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#404040" style="color: #404040"&gt;
+  &lt;head style="color: #404040" color="#404040"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #404040; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #404040; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #404040; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #404040; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
@@ -742,7 +793,7 @@
         <ID2 xsi:type="text">44</ID2>
     </child>
     <child ID="50"
-        label="I create figures I write a peer review of a scientific article I translate scientific media I shape analogies from ideas I write descriptions"
+        label="I create figures&#xa;      &#xa;      &#xa;        I write a peer review of a scientific article&#xa;      &#xa;      &#xa;        I translate scientific media&#xa;      &#xa;      &#xa;        I shape analogies from ideas&#xa;      &#xa;      &#xa;        I write descriptions"
         layerID="1" created="1414330273575" x="1136.5" y="252.0"
         width="150.0" height="112.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
@@ -750,39 +801,51 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d70ac10100500900e24b4ddc065</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I create figures
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I write a peer review of a scientific article
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I translate scientific media
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I shape analogies from ideas
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I write descriptions
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-        <label>I create figures I write a peer review of a scientific article I translate scientific media I shape analogies from ideas I write descriptions</label>
+        <label>I create figures
+      
+      
+        I write a peer review of a scientific article
+      
+      
+        I translate scientific media
+      
+      
+        I shape analogies from ideas
+      
+      
+        I write descriptions</label>
     </child>
     <child ID="51"
         label="I reuse images and graphs from other people's articles in my &#xa;        scientific talks"
@@ -793,13 +856,13 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d71ac10100500900e24f5575b3b</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
@@ -844,7 +907,7 @@
         <ID2 xsi:type="text">51</ID2>
     </child>
     <child ID="54"
-        label="I post a copy of my pubications to my website I publish my translations I share my thoughts on open science issues on my blog"
+        label="I post a copy of my pubications to my website&#xa;      &#xa;      &#xa;        I publish my translations&#xa;      &#xa;      &#xa;        I share my thoughts on open science issues on my blog"
         layerID="1" created="1414330402672" x="1136.5" y="463.0"
         width="150.0" height="99.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
@@ -852,33 +915,39 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4caa3d72ac10100500900e2492708a03</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I post a copy of my pubications to my website
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I publish my translations
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I share my thoughts on open science issues on my blog
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-        <label>I post a copy of my pubications to my website I publish my translations I share my thoughts on open science issues on my blog</label>
+        <label>I post a copy of my pubications to my website
+      
+      
+        I publish my translations
+      
+      
+        I share my thoughts on open science issues on my blog</label>
     </child>
     <child ID="55" layerID="1" created="1414330448007" x="1056.8999"
         y="512.0" width="80.099976" height="1.0" strokeWidth="1.0"
@@ -894,7 +963,7 @@
         <ID2 xsi:type="text">54</ID2>
     </child>
     <child ID="56"
-        label="I write plugins for data management systems I write code I write scripts"
+        label="I write plugins for data management systems&#xa;      &#xa;      &#xa;        I write code&#xa;      &#xa;      &#xa;        I write scripts"
         layerID="1" created="1414330470222" x="-800.5" y="283.0"
         width="150.0" height="60.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
@@ -902,33 +971,39 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cae09cbac10100500900e248beb3622</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#404040" style="color: #404040"&gt;
+  &lt;head style="color: #404040" color="#404040"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #404040; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #404040; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #404040; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #404040; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I write plugins for data management systems
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I write code
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         I write scripts
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-        <label>I write plugins for data management systems I write code I write scripts</label>
+        <label>I write plugins for data management systems
+      
+      
+        I write code
+      
+      
+        I write scripts</label>
     </child>
     <child ID="57" layerID="1" created="1414330506920" x="-651.0"
         y="312.5" width="90.900024" height="1.0" strokeWidth="1.0"
@@ -951,13 +1026,13 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cae09ccac10100500900e24ae1ef263</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#404040" style="color: #404040"&gt;
+  &lt;head style="color: #404040" color="#404040"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #404040; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #404040; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #404040; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #404040; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
@@ -994,13 +1069,13 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cae09cdac10100500900e246cdae836</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#404040" style="color: #404040"&gt;
+  &lt;head style="color: #404040" color="#404040"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #404040; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #404040; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #404040; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #404040; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
@@ -1037,7 +1112,8 @@
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cc79a72ac10100500900e24bf884124</URIString>
-        <child ID="68" label="write Collect Gather"
+        <child ID="68"
+            label="write&#xa;      &#xa;      &#xa;        Collect&#xa;      &#xa;      &#xa;        Gather"
             created="1414331375723" x="5.0" y="22.0" width="150.0"
             height="47.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -1045,33 +1121,39 @@
             <font>SansSerif-plain-14</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4cc79a72ac10100500900e2494454259</URIString>
             <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         write
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Collect
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Gather
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>write Collect Gather</label>
+            <label>write
+      
+      
+        Collect
+      
+      
+        Gather</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
@@ -1083,7 +1165,8 @@
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cc79a73ac10100500900e2436b683ab</URIString>
-        <child ID="70" label="Publish post describe host"
+        <child ID="70"
+            label="Publish&#xa;      &#xa;      &#xa;        post&#xa;      &#xa;      &#xa;        describe&#xa;      &#xa;      &#xa;        host"
             created="1414331463613" x="5.0" y="22.0" width="150.0"
             height="60.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -1091,36 +1174,45 @@
             <font>SansSerif-plain-14</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4cc79a73ac10100500900e2456908c5c</URIString>
             <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Publish
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         post
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         describe
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         host
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>Publish post describe host</label>
+            <label>Publish
+      
+      
+        post
+      
+      
+        describe
+      
+      
+        host</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
@@ -1133,7 +1225,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4cc79a74ac10100500900e2460409ce1</URIString>
         <child ID="69"
-            label="Visualise fork process remix scrape clean combine"
+            label="Visualise&#xa;      &#xa;      &#xa;        fork&#xa;      &#xa;      &#xa;        process&#xa;      &#xa;      &#xa;        remix&#xa;      &#xa;      &#xa;        scrape&#xa;      &#xa;      &#xa;        clean&#xa;      &#xa;      &#xa;        combine"
             created="1414331402584" x="5.0" y="22.0" width="150.0"
             height="99.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -1141,45 +1233,63 @@
             <font>SansSerif-plain-14</font>
             <URIString>http://vue.tufts.edu/rdf/resource/4cc79a74ac10100500900e244dec0efe</URIString>
             <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 11; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 11; list-style-position: outside; margin-top: 6 }
+        body { margin-left: 0px; margin-top: 0px; margin-right: 0px; font-size: 11; color: #000000; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
+        p { margin-left: 0; margin-top: 0; margin-right: 0; color: #000000; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; list-style-position: outside; font-size: 11; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         Visualise
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         fork
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         process
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         remix
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         scrape
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         clean
       &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
+      &lt;li style="color: #000000" color="#000000"&gt;
         combine
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>Visualise fork process remix scrape clean combine</label>
+            <label>Visualise
+      
+      
+        fork
+      
+      
+        process
+      
+      
+        remix
+      
+      
+        scrape
+      
+      
+        clean
+      
+      
+        combine</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
@@ -1196,71 +1306,17 @@
         <ID1 xsi:type="node">12</ID1>
         <ID2 xsi:type="node">14</ID2>
     </child>
-    <child ID="73" label="INTENTIONS" layerID="1"
-        created="1414335227828" x="-895.6707" y="992.39026"
-        width="462.3994" height="95.80969" strokeWidth="1.0"
-        autoSized="false" xsi:type="node">
-        <fillColor>#D0D0D0</fillColor>
-        <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
-        <font>Arial-plain-12</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/4cf495f80a00eab60196d898e68f295f</URIString>
-        <child ID="74"
-            label="I share data to enable others to re-use it&#xa;      &#xa;      &#xa;        I create code to analyse data&#xa;      &#xa;      &#xa;        I use code to do meta analysis of data to share"
-            created="1414335247955" x="5.0" y="22.0" width="434.0"
-            height="57.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
-            <strokeColor>#404040</strokeColor>
-            <textColor>#000000</textColor>
-            <font>SansSerif-plain-14</font>
-            <URIString>http://vue.tufts.edu/rdf/resource/4cf495f90a00eab60196d8981f86b7cf</URIString>
-            <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
-    &lt;style type="text/css"&gt;
-      &lt;!--
-        body { margin-bottom: 0px; font-family: Arial; margin-right: 0px; color: #000000; font-size: 12; margin-left: 0px; margin-top: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-        p { margin-bottom: 0; margin-right: 0; color: #000000; margin-left: 0; margin-top: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-left: 30; font-size: 12; list-style-position: outside; margin-top: 6 }
-      --&gt;
-    &lt;/style&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;ul color="#000000"&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
-        I share data to enable others to re-use it
-      &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
-        I create code to analyse data
-      &lt;/li&gt;
-      &lt;li color="#000000" style="color: #000000"&gt;
-        I use code to do meta analysis of data to share
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</richText>
-            <label>I share data to enable others to re-use it
-      
-      
-        I create code to analyse data
-      
-      
-        I use code to do meta analysis of data to share</label>
-        </child>
-        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
-    </child>
     <layer ID="1" label="Layer 1" created="1414325401856" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/4c5d6ffeac10100500900e2447a0b804</URIString>
     </layer>
-    <userZoom>1.25</userZoom>
-    <userOrigin x="-1156.2134" y="-153.75"/>
+    <userZoom>0.5</userZoom>
+    <userOrigin x="-454.25" y="-257.5"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1414325401845"
             x="0.0" y="0.0" width="1.4E-45" height="1.4E-45"
-            strokeWidth="0.0" autoSized="false" currentIndex="0" open="true">
+            strokeWidth="0.0" autoSized="false" currentIndex="-1" open="true">
             <strokeColor>#B3993333</strokeColor>
             <textColor>#000000</textColor>
             <font>SansSerif-plain-14</font>
@@ -1307,6 +1363,6 @@
     </PathwayList>
     <date>2014-10-27</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>/Users/kubke/GitHub/MozFest2014-OS-Skills-Curriculum</saveLocation>
-    <saveFile>/Users/kubke/GitHub/MozFest2014-OS-Skills-Curriculum/MozFest14-OpenScience.vue</saveFile>
+    <saveLocation>/Users/kubke/Desktop</saveLocation>
+    <saveFile>/Users/kubke/Desktop/MozFest14-OpenScience.vue</saveFile>
 </LW-MAP>
