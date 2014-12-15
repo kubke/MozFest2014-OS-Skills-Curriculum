@@ -1,0 +1,44 @@
+Action	Digital Skill/Knowledge	Key Principles	Notes
+complie	computer architecture, general programming languages, command line	automation, reuse, sharable	
+install software	computer architecture, command line	reusable	
+solve problems	debugging	testable	
+image processing	computer graphics	automation, understandable	
+set-up or maintain server	remote computers, client server, APIs	accessibile, communicable	
+write code	computer architecture, general programming languages, command line	repeatable, reusable, adaptable, automatable	
+build equipment	computer architecture, general programming languages, interacting with hardware/electronics	observable, communicable	
+administer grants	peer review systems, authoring systems, online collaboration	testable, collaborative	
+use version control	version control	understandable, repeatable, 	
+provide advice	online collaboration	communicable, understandable, attributable	
+use linux	command line, computer architecture	open, adaptable	
+run simulations/models	computer architecture, general programming languages, command line, HPC	testable, reusable, adaptable, repeatable	
+segment images	data transformation, data management	unerstandable, traceable, scalable	
+anonymize data	security, licensing, data management	ethical, reusable, acessible	
+set-up databases	structured data, data management	accesible, adaptable, scalable	
+back-up data	data management, 	reproducible, observable, accessible	maybe accessible and observable are the same thing? dta managemetn includes future/archiving
+store data	data management, 	accessible	data management should include - structuring, naming, formats, media, future, metadata ....
+organise meetings	online collaboration, social media	collaborative	
+edit papers	authoring systems, online collaboration	attributable, communicable, understandable	
+visualise data	computer graphics, info vis	communicable, understandable	
+edit/create metadata	data management	discoverable, understandable, reproducible	data management should include metadata.
+curation	data management	discoverable, communicable, accesible	
+keep up-to-date	RSS, social media, alerts, agents	understandable, communicable	
+review papers	online collaboration, authoring systems	communicable, understandable, testable	
+give talks	social media, licensing, info vis	communicable, unserstandable, discoverable	
+share data	data management	communicable, discoverable, sharable, accessible	data management should include how to share
+particpate in listserves	social media, online collaboration	ethics, communicable, sharable, understandable	
+write reports/papers	online collaboration, authoring systems, citation managers, text formats, licensing, 	accesible, ethical, attributable, understandable, communicatable, traceable 	
+document code	general programming languages, software engineering best practice	understandable, traceable, reusable	
+setup blog	social media, online collaboration	communicable, unserstandable, discoverable	
+unit testing	general programming languages, software engineering best practice	testable, repeatable	
+understand floating point numbers and limitations	computer architecture	repeatable	
+understand ways of data storage and backup	data management	accessible	
+know what is the accepted manuscript version	digital publishing	accessible, discoverable, attributable,	
+take more ownership of research project	online collaboration	communicable, attributable	
+define the problem and formulate research plans	online collaboration	communicable, attributable	
+could communicate concepts in a more organised and clear way	data management, info vis, social media	understandable, communicable, attributable	
+knew how to access, store and use a SQL database	data management	acessible, reusable, adaptable	
+know what threads were (computation)	computer architecture	reusable, communicable	
+know what environment variables are and how to set them (for running linux apps)(eg PATH, LD-LIBRARY_PATH)	computational environments	repeatable	
+understatnd how research funding works in NZ	altmetrics, 	communicable, attributable	
+show more willingness to put code, content, etc. into the public domain for the benefit of all, and to receive back the benefit of improvement from the community	licensing, data management	ethical, accessible, reusable, discoverable	
+reuse existing code	data management, search strategies	attributable, reusable	
