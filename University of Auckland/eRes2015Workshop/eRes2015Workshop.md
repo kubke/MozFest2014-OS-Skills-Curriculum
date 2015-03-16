@@ -18,13 +18,32 @@ The focus here is on identifying skills, technologies and exemplar use or materi
 The pedagogy (how we will teach it) - we will take care of later.
 
 
+Jisc notes/ideas
+-----
+How to prepare students to work effectively with digitial technologies.
+What are the students expectations?
+Show how to transfer skills to academic practice.
+Make it cleat which technologies can suppport which research activities.
+Build confidence.
+Offer authentic exepriences.
+Context will determine whih modules are appropritate for which course of study.
+Create learning and assesment activities which require students to use digital tech to
+	- communicate ideas
+	- express views
+	- produce artefacts
+	- analyse data
+	- solve problems 
+Be clear about how we expect students to use digital tech i their programmes of learning
+
+
+
 
 First thoughts for the workshop.
 -------
 
 1) What we are here for
 2) Introductions (split people into modulo groups? - talk to your neighbour about the last time you helped someone or were frustrated with a digital tool in research)
-3) The modules and discussion - 3 sticky note system
+3) The modules > display all and discussion - 3 sticky note system
 4) Design sheets - capture knowledge/experience >> needs effort in desing to capture the knowlege we want.
 5) Free time - while we collate the main ideas
 6) Group feedback and review on collated notes
