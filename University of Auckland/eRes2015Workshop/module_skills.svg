@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="module_feedback.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         id="path4026"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path3986"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3989"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3971"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3965"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3956"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="813.4608"
+     inkscape:cy="535.04921"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1344"
+     inkscape:window-height="990"
+     inkscape:window-x="253"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2.988066e-5)">
+    <rect
+       style="fill:#c7ffc2;fill-opacity:1;stroke:#000000;stroke-width:0.99921262000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3785"
+       width="1484.9242"
+       height="1054.5992"
+       x="2.0203052"
+       y="1.8035361"
+       transform="translate(0,-2.988066e-5)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="rect2985"
+       width="695.71429"
+       height="930.04205"
+       x="43.14286"
+       y="94.891525"
+       ry="4.8729749"
+       rx="5" />
+    <rect
+       rx="5"
+       ry="4.8729749"
+       y="94.891525"
+       x="750.28571"
+       height="930.04205"
+       width="695.71429"
+       id="rect3755"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3787"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(46.467014,-20.203081)"><flowRegion
+         id="flowRegion3789"><rect
+           id="rect3791"
+           width="1149.5536"
+           height="272.74118"
+           x="367.69553"
+           y="32.108112"
+           style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3793">Module:_________________</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3795"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3797"><rect
+           id="rect3799"
+           width="248.49753"
+           height="56.568542"
+           x="238.396"
+           y="339.19449" /></flowRegion><flowPara
+         id="flowPara3801"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3808"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#929292;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(26.263965,2.710643)"><flowRegion
+         id="flowRegion3810"><rect
+           id="rect3812"
+           width="547.50269"
+           height="824.28448"
+           x="115.15739"
+           y="171.50917"
+           style="fill:#929292;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3878"
+         style="fill:#686868;fill-opacity:1">Knowledge, Skills, and Ability.</flowPara><flowPara
+         id="flowPara3925" /><flowPara
+         id="flowPara3927">What kinds of proficiencies should be developed through skills and training/practice in this module?</flowPara><flowPara
+         id="flowPara3929" /><flowPara
+         id="flowPara3931">What knowledge or concepts need to be understood to become skilled or practiced in this area?</flowPara></flowRoot>    <flowRoot
+       transform="translate(715.18799,4.040572)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#929292;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3933"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3935"><rect
+           style="fill:#929292;fill-opacity:1"
+           y="171.50917"
+           x="115.15739"
+           height="660.63977"
+           width="549.52301"
+           id="rect3937" /></flowRegion><flowPara
+         style="fill:#686868;fill-opacity:1"
+         id="flowPara3939">Tools, Technologies, and Resources.</flowPara><flowPara
+         id="flowPara3941" /><flowPara
+         id="flowPara3947">For this module, what are exemplar tools, technologies, or resources that people use?</flowPara><flowPara
+         id="flowPara5348"></flowPara><flowPara
+         id="flowPara5350">Are there exisiting learning or teaching resources? </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5352"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-26.263966,-46.467047)"><flowRegion
+         id="flowRegion5354"><rect
+           id="rect5356"
+           width="523.25903"
+           height="147.48232"
+           x="175.76654"
+           y="923.06268"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara5358">e.g. collaboration, distributed version control, push/pull, fork/branch, local vs remote machines, command-line interface ...</flowPara></flowRoot>    <flowRoot
+       transform="translate(636.39611,-44.446742)"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5360"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5362"><rect
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           y="923.06268"
+           x="175.76654"
+           height="113.13713"
+           width="602.0509"
+           id="rect5364" /></flowRegion><flowPara
+         id="flowPara5366">e.g. Wikis, git/GitHub, Software Carptentry, SVN, </flowPara></flowRoot>  </g>
+</svg>
