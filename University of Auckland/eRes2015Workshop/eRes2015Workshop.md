@@ -48,7 +48,7 @@ Were gonna try and write a lot of things down - everyone gets a opportunity to h
 This is open and inclusive - no one persons view is privileged , there is no right or wrong - we're gonna try something like a meta-brain dump, utilize the collective intelligence of the room in a parallel / unrestrained way. :)
 > 5min
 
-2) Introductions (split people into modulo groups of 4-5? - talk to your neighbor or group of 3 about the last time you either helped someone, or were frustrated with a digital tool related to research) > Think for 1 minute, capture this on a sticky note (we collect later), talk - 2min each person.
+2) Introductions (split people into modulo groups of 4-5? - talk to your neighbor or group of 3 about the last time you either helped someone with a computer issue and how you solved the problem for them. Think for 1 minute, capture this on a sticky note (we collect later), talk - 2min each person.
 > 5min
 
 3) The modules > display them all (paper or PPT) The modules represent or are related to some core elements of scientific inquiry. We want to map these to digital skills, and then to specific exemplar tools, technologies, resources.
